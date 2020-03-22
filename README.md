@@ -1,5 +1,6 @@
 # Video Player for OpenCV Processing
-The Qt-based project allows a user to view results of his/her OpenCV processing in parallel with the Original Sample. The user can apply different effects to the running video and see results simultaneously. The project can serve as a base for many OpenCV Projects. 
+The Qt-based project allows a user to view results of OpenCV processing in parallel with the original video sample. The user can program different OpenCV processing (e.g. filters) to be applied to a running video, results of which can then be observed simultaneously with the original video. The aim of project is to serve as a base for other OpenCV Projects. 
+
 The initial configuration allows for Segmenting a video in parallel with the original sample.
 
 ### Requirements
